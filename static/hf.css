@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    background-color: #d56868;
+    display: block;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+pre {
+    background-color: #dfd1d1;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    padding: 10px;
+}
